@@ -15,17 +15,25 @@ The ePortfolio serves as a comprehensive showcase of my abilities to potential e
 
 In Module Two, I will conduct a code review of selected artifacts for enhancement. The video code review will analyze current functionalities, identify areas for improvement, and outline enhancement plans.
 
+- [Code Review Video](CS-499/code_review/README.md)
+
 ### Milestone Two: Enhancement One - Software Design and Engineering
 
 Module Three focuses on enhancing an artifact related to software design and engineering. This includes improving software functionality, optimizing code structure, and incorporating advanced programming concepts.
+
+- [Enhancement One - Software Design and Engineering](CS-499/enhancements/CS-300/README.md)
 
 ### Milestone Three: Enhancement Two - Algorithms and Data Structure
 
 Module Four enhances an artifact emphasizing algorithms and data structures. This involves enhancing efficiency, scalability, and complexity using advanced algorithms and optimized data structures.
 
+- [Enhancement Two - Algorithms and Data Structure](CS-499/enhancements/CS-340/README.md)
+
 ### Milestone Four: Enhancement Three - Databases
 
 Module Five enhances an artifact related to databases. This includes integrating advanced database concepts, optimizing data querying, and enhancing data management capabilities.
+
+- [Enhancement Three - Databases](CS-499/enhancements/CS-360/README.md)
 
 ### Final Submission: ePortfolio and Professional Self-Assessment
 
@@ -36,10 +44,14 @@ Module Seven marks the submission of the final ePortfolio, featuring polished ar
 1. **Code Review Video**
    - Analysis of existing functionalities and planned enhancements.
    - Identification of skills demonstrated in software engineering, algorithms, data structures, and databases.
+   - [Link to Code Review Video](CS-499/code_review/README.md)
 
 2. **Enhanced Artifacts**
    - Original artifacts enhanced to demonstrate proficiency in software design, algorithms, data structures, and databases.
    - Each artifact accompanied by a narrative justifying its inclusion, enhancements made, skills demonstrated, challenges faced, and alignment with course outcomes.
+   - [Enhancement One - Software Design and Engineering](CS-499/enhancements/CS-300/README.md)
+   - [Enhancement Two - Algorithms and Data Structure](CS-499/enhancements/CS-340/README.md)
+   - [Enhancement Three - Databases](CS-499/enhancements/CS-360/README.md)
 
 3. **Professional Self-Assessment**
    - Reflection on coursework, skills development, and preparation for a professional career in computer science.
