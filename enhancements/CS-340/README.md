@@ -1,5 +1,4 @@
 # CS-340-Client-Server-Development
-## Project 2 - Dashboard Code and Documentation
 
 # README for CS-340 Dashboard - Grazioso Salvare
 
